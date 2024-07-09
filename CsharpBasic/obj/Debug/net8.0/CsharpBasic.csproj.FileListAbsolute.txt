@@ -1,0 +1,14 @@
+C:\Users\Khizer Ali\source\repos\CsharpBasic\bin\Debug\net8.0\CsharpBasic.exe
+C:\Users\Khizer Ali\source\repos\CsharpBasic\bin\Debug\net8.0\CsharpBasic.deps.json
+C:\Users\Khizer Ali\source\repos\CsharpBasic\bin\Debug\net8.0\CsharpBasic.runtimeconfig.json
+C:\Users\Khizer Ali\source\repos\CsharpBasic\bin\Debug\net8.0\CsharpBasic.dll
+C:\Users\Khizer Ali\source\repos\CsharpBasic\bin\Debug\net8.0\CsharpBasic.pdb
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.AssemblyInfoInputs.cache
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.AssemblyInfo.cs
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.dll
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\refint\CsharpBasic.dll
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.pdb
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\CsharpBasic.genruntimeconfig.cache
+C:\Users\Khizer Ali\source\repos\CsharpBasic\obj\Debug\net8.0\ref\CsharpBasic.dll
